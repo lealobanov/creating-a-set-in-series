@@ -1,4 +1,6 @@
 
+import "SetAndSeries"
+
 access(all) contract Recipe {
     access(all)
     struct NFTSetData {

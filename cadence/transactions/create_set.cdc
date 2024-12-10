@@ -1,4 +1,4 @@
-import SetAndSeries from 0x01
+import "SetAndSeries"
 
 transaction {
 
