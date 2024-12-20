@@ -1,1 +1,0 @@
-./cadence/transactions/create_set.cdc
